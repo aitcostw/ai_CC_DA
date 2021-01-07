@@ -1,6 +1,6 @@
-# ai_CC Control Center for production equipment using TAAS EdgeOS and EdgeNC
+# ai_CC_DA Control Center for production equipment using TAAS EdgeOS and EdgeNC
 # TAAS develops generic production control and monitor software using Edge ai and DNN  
-## ai_CC - Control Center Operating System Overview
+## ai_CC_DA - Control Center Operating System Overview with Data Analytics using Semiconductor Factory Dataset
 ## DEMO for Smart Test Head (STH7500) Production Center for In-House ATE customer
 
 This is an advanced application demo for running a Smart Test Head Production Control Center that demonstrates many of the key capabilities enabled by TAAS EdgeOS (Edge Operating Software) and EdgeNC (Network Computing) , such as: 
