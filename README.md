@@ -1,3 +1,5 @@
+![Demo Application Map](https://raw.githubusercontent.com/aimwts/aiTAAS-Edge/master/Taas_logo_s.jpg "Demo Application Map")
+
 # ai_CC_DA Control Center for production equipment using TAAS EdgeOS and EdgeNC
 # TAAS develops generic production control and monitor software using Edge ai and DNN  
 ## ai_CC_DA - Control Center Operating System Overview with Data Analytics using Semiconductor Factory Dataset
