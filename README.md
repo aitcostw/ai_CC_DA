@@ -13,6 +13,8 @@ This is an advanced application demo for running a Smart Test Head Production Co
  * The ability to monitor sensros embedded in production equipment and predict function failure in real time
  * The ability to predict PM schedule before machine failure
  * The ability to provide trouble shooting procedure using ai Robat Assitant
+ 
+ ![Demo Application Map](https://raw.githubusercontent.com/aimwts/aiTAAS-Edge/master/STH7500.jpg "Demo Application Map")
 
 This application is deployed in the Control Center office for monitoring production machines and serves as a demonstration of best practices. Therefore, the description of this application will be through a hypothetical Control Center scenario even though the application could be applied to many use cases involving sensors, Machine Operation real-time Data collection and/or a network of machines. 
 
@@ -34,7 +36,6 @@ Inside the Control Center, there are a number of Raspberry Pi devices with vario
 
 ![Demo Application Map](https://raw.githubusercontent.com/aimwts/aiTAAS-Edge/master/Edge%20map.jpg "Demo Application Map")
 
-![Demo Application Map](https://raw.githubusercontent.com/aimwts/aiTAAS-Edge/master/STH7500.jpg "Demo Application Map")
 
 ![Demo Application Map](https://raw.githubusercontent.com/aimwts/aiTAAS-Edge/master/TC%20IP%20config.jpg "Demo Application Map")
 
